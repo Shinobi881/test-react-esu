@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Shinobi881/test-react-esu/issues"
   },
-  "homepage": "https://github.com/Shinobi881/test-react-esu#readme"
+  "homepage": "https://github.com/Shinobi881/test-react-esu#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
 }
