@@ -13,3 +13,6 @@
 1. From project root `npm i`
 2. `npm run serve`
 3. Open browser to `http://localhost:8080/`
+
+# AWS Deployment
+- Set server port to `80` instead of `8080`
